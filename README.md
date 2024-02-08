@@ -1,4 +1,4 @@
-# Sway
+# Sway 
 
 [![build](https://github.com/FuelLabs/sway/actions/workflows/ci.yml/badge.svg)](https://github.com/FuelLabs/sway/actions/workflows/ci.yml)
 [![crates.io](https://img.shields.io/crates/v/forc?label=latest)](https://crates.io/crates/forc)
